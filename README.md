@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mamun49
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Learning AI and ML
+- 🌱 I’m currently learning Angular and JS
+- 💞️ I’m looking to collaborate on ASP.net MVC
 - 📫 mail- hasanmamun326@hotmail.com
 
 <!---
